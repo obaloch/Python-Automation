@@ -1,0 +1,35 @@
+XPATH FOR LINKEDIN JOBS:
+
+//ul[@class='rjmNTMLkNvPwnJnFTCybgSFpgYGQ']//li[contains(@id, 'ember')]//a[contains(@tabindex, '0')]
+
+XPATH FOR LINKEDIN PAGES
+
+//div[contains(@class, 'hIAMCqpFeYcVjeOPoulLoCCKJjLsx')]//li[contains(@class, 'artdeco-pagination__indicator')]
+
+XPATH FOR LINKEDIN JOBS PAGES SEARCH BAR:
+
+//div[@class='application-outlet']//div[@class='global-nav__content']//div[@class='relative']//input[contains(@id, 'jobs-search-box-keyword-id-ember')]
+
+XPATH FOR JOBS BUTTON
+
+//div[contains(@class, 'ivm-view-attr__img-wrapper')]//li-icon[contains(@type, 'job')]
+
+XPATH FOR PAGE
+
+//li[contains(@class, 'artdeco-pagination__indicator artdeco-pagination__indicator--number')]
+
+XPATH for verify button
+
+//div[@id='app']//button[@id='home_children_button']
+
+XPATH FOR APPLY BUTTON
+
+//div[@class'mt4']//button[@role='link']
+
+XPATH FOR JOB TITLE
+
+//div[@class='t-24 job-details-jobs-unified-top-card__job-title']
+
+XPATH FOR SCROLL
+
+//div[contains(@class, 'rDaOKTbZvbjucPjpqnKVNScdrufHYniIViDbBU')]
