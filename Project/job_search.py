@@ -19,8 +19,8 @@ driver = webdriver.Chrome(service = service)
 driver.maximize_window()
 
 # Replace these with your LinkedIn credentials
-USERNAME = "obprofessional2023@gmail.com"
-PASSWORD = "Mothernature4all2"
+USERNAME = "********************"
+PASSWORD = "******************"
 
 # Set up 10s waits 
 wait = WebDriverWait(driver,5)
